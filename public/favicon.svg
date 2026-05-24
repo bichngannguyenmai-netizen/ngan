@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="128" fill="#061c3d"/>
+  <!-- Gold outer elegant frame -->
+  <rect x="32" y="32" width="448" height="448" rx="96" fill="none" stroke="#c5a368" stroke-width="8"/>
+  <rect x="44" y="44" width="424" height="424" rx="84" fill="none" stroke="#c5a368" stroke-width="2" stroke-dasharray="8 6"/>
+  <!-- Elegant Serif Text -->
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" font-family="'Playfair Display', 'Georgia', serif" font-weight="bold" font-style="italic" font-size="210" fill="#c5a368">BN</text>
+  <line x1="180" y1="340" x2="332" y2="340" stroke="#c5a368" stroke-width="4" stroke-opacity="0.6"/>
+  <text x="50%" y="78%" dominant-baseline="middle" text-anchor="middle" font-family="'Roboto', sans-serif" font-weight="700" font-size="36" letter-spacing="12" fill="#c5a368">BICH NGAN</text>
+</svg>
